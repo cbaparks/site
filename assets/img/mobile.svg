@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="52px" viewBox="0 0 30 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-497.000000, -479.000000)">
+            <g id="Hero" sketch:type="MSLayerGroup">
+                <g id="Group" transform="translate(498.000000, 480.000000)" sketch:type="MSShapeGroup">
+                    <path d="M0.848484848,5.83333333 L27.5757576,5.83333333" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M0.848484848,42.5 L26.7272727,42.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <ellipse id="Oval-1" fill="#FFFFFF" cx="14.8484848" cy="46.25" rx="1.27272727" ry="1.25"></ellipse>
+                    <path d="M0.848484848,0.998768955 C0.848484848,0.447164093 1.29709689,0 1.84702249,0 L27.0014624,0 C27.5529395,0 28,0.447525736 28,0.998768955 L28,49.001231 C28,49.5528359 27.5527602,50 26.9948393,50 L15.9686594,50 C15.4156088,50 14.5248267,50 13.9651807,50 L1.85184617,50 C1.29770501,50 0.848484848,49.5524743 0.848484848,49.001231 L0.848484848,0.998768955 Z" id="Mobile-Device" stroke="#FFFFFF" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
